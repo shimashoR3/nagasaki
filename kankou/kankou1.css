@@ -1,0 +1,72 @@
+nav {
+    background-color:#c0ffdc;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom:50px;
+    border-bottom:1px solid red;
+}
+nav *:last-child{
+    min-width:50px   
+
+}
+nav *:first-child{
+    min-width:50px;
+    
+}
+nav h1 {
+    font-size:20px;
+}
+
+#id_sample {
+   width: 100%;
+   height: 500px;
+}
+
+#index{background-image:url(kasutera.jpg);
+  background-size: cover;
+}
+
+#menu button {
+    width:100%;
+    height:75px;
+    padding:1px;
+    margin-bottom:10px;
+    border-radius:10px;  
+  background-color:#ffffff;
+  font-size:180%
+}
+
+#menu {
+    margin-top:100px;
+    display:flex;
+    flex-direction: column;
+
+}
+
+
+
+#gurume{
+  background-color: #e0ffff;
+}
+#tyuka{
+  background-color: #e0ffff;
+}
+
+#omiyage{
+  background-color: #e0ffff;
+}
+#meisyo{
+  background-color: #e0ffff;
+}
+
+#dezato{
+  background-color: #e0ffff;
+}
+#annai{background-color: rgb(190, 19, 224);
+}
+
+#class1 {
+  width: 11%;
+  height: 11%;
+}
